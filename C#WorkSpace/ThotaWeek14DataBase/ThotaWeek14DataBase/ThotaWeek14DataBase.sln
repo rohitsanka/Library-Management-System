@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThotaWeek14DataBase", "ThotaWeek14DataBase\ThotaWeek14DataBase.csproj", "{0415C33E-6320-4CE3-B147-64FA68E64449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThotaControls", "ThotaControls\ThotaControls.csproj", "{39B72868-6509-4C94-B22F-FB49C073D656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0415C33E-6320-4CE3-B147-64FA68E64449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0415C33E-6320-4CE3-B147-64FA68E64449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0415C33E-6320-4CE3-B147-64FA68E64449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0415C33E-6320-4CE3-B147-64FA68E64449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B72868-6509-4C94-B22F-FB49C073D656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B72868-6509-4C94-B22F-FB49C073D656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B72868-6509-4C94-B22F-FB49C073D656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B72868-6509-4C94-B22F-FB49C073D656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

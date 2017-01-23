@@ -1,0 +1,27 @@
+c:\users\rxs45550\documents\visual studio 2012\Projects\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\SankaWeek15DBApplication.exe.config
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\SankaWeek15DBApplication.exe.config
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\SankaWeek15DBApplication.exe
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\SankaWeek15DBApplication.pdb
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.csprojResolveAssemblyReference.cache
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.Properties.Resources.resources
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.rnrForm.resources
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.csproj.GenerateResource.Cache
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.exe
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.pdb
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\RnrBooks.mdf
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\RnrBooks_log.ldf
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\DBApplication.dll
+C:\Users\rxs45550\Desktop\Sanka_week15\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\DBApplication.pdb
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\SankaWeek15DBApplication.exe.config
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.exe
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.pdb
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\RnrBooks.mdf
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\RnrBooks_log.ldf
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\SankaWeek15DBApplication.exe
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\SankaWeek15DBApplication.pdb
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\DBApplication.dll
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\bin\Debug\DBApplication.pdb
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.csprojResolveAssemblyReference.cache
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.Properties.Resources.resources
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.rnrForm.resources
+D:\C#WorkSpace\SankaWeek15DBApplication\SankaWeek15DBApplication\obj\Debug\SankaWeek15DBApplication.csproj.GenerateResource.Cache
